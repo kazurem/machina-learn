@@ -1,4 +1,4 @@
-# Learning-ML-DL
+# machina-learn
 A respository I am making in order to learn ML and DL.
 
 ### Goals:
